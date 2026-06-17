@@ -150,22 +150,6 @@ passion     : Automating everything between "git push" and production 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagardas4work&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagardas4work&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sagardas4work&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
