@@ -22,7 +22,7 @@ role        : DevOps Engineer Intern @ Quantum Heaps
 since       : May 2026
 location    : Assam, India
 education   : BCA — Gauhati University (2020–2023)
-email       : sagardas4work@gmail.com
+email       : sagar.das@quantumheaps.com
 phone       : +91-9127301316
 passion     : Automating everything between "git push" and production 🚀
 ```
